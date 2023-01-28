@@ -45,9 +45,9 @@ Due to various light sources (e.g. street lamps, car lights, truck lights, etc) 
 
 <table>
     <tr>
-        <td ><center><img src="https://github.com/shiyanrubing/CarNet_databases/blob/main/datasets/BJN260/img/IMG_20201025_174847.png" >图1  </center></td>
-        <td ><center><img src="https://github.com/shiyanrubing/CarNet_databases/blob/main/datasets/BJN260/gt/IMG_20201025_174847.png" >图2 </center></td>
-        <td ><center><img src="https://github.com/shiyanrubing/CarNet_databases/blob/main/datasets/BJN260/visulization/IMG_20201025_174847.png" >图3 </center></td>
+        <td ><center><img src="https://github.com/shiyanrubing/CarNet_databases/blob/main/datasets/BJN260/img/IMG_20201025_174847.png" ></center></td>
+        <td ><center><img src="https://github.com/shiyanrubing/CarNet_databases/blob/main/datasets/BJN260/gt/IMG_20201025_174847.png" ></center></td>
+        <td ><center><img src="https://github.com/shiyanrubing/CarNet_databases/blob/main/datasets/BJN260/visualization/IMG_20201025_174847.png"></center></td>
     </tr>
 </table>
 
