@@ -4,10 +4,16 @@ The dataset can be download from [**aliyundrive**](https://www.aliyundrive.com/s
 
 # Overview
 
-Cracks as common pavement defects, provide a sign of potential road damage. Pixel-level pavement crack detection is of great importance for intelligent transportation. However, it is challenging since cracks usually manifest themselves in various characteristics, such as low contrast, poor continuity, extreme aspect ratio, multiple scales and etc. These crack charateristics may attribute to some external environments, such as weather, light, crack pictures captured in different viewpoints and etc, or their inherent properties.
+Cracks as common pavement defects, provide a sign of potential road damage. Pixel-level pavement crack detection is of great importance for intelligent transportation. However, it is challenging since cracks usually manifest themselves in various characteristics, such as low contrast, poor continuity, extreme aspect ratio, multiple scales and etc. These crack charateristics may attribute to some external environments, such as weather, light, crack pictures captured in different viewpoints and etc, or their inherent properties. 
 
-Visual examples of different interference factors. (a), (b), (c), and (d) contain shadows on sunny days, rainwater on rainy days, uneven illuminations in night scenes, and grain-like texture in the background, respectively.
+Visual examples of real cracks. (a) contain shadows on sunny days, (b)rainwater on rainy days, , (c) uneven illuminations in night scenes, and (d)grain-like texture in the background, respectively.
 
+However, to our knowledge, the existing pavement crack databases are usually captured under clear weather.
+Crack data under other weather, such as rainy day, are absent in this field.
+Besides, the open-source single dataset for sunny days is small in data scale, e.g. it usually contains no more than 400 images.
+
+Thus, we propose three new pavement crack databases, i.e. Sun520, Rain365 and BJN260, to promote the research community. We annotated the cracks in the pixel level.
+We detail each dataset in the following sections.
 
 ![example](https://github.com/shiyanrubing/CarNet_databases/blob/main/datasets/example/noise_in_cracks_00.png)
 
