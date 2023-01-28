@@ -41,7 +41,7 @@ Fig exp
 
 BJN260 includes 260 crack images collected at night scene in Beijing.
 These images mainly reflect pavement conditions in the side road of North Fourth Ring West Road.
-Due to various light sources (e.g. street lamps, car lights, truck lights, etc) and different light intensities, pavement conditions at night are complex and changeable, which brings new challenges to pixel-level detection.
+Due to various light sources (e.g. street lamps, car lights, truck lights, etc) and different light intensities, pavement conditions at night are complex and changeable, which brings new challenges to pixel-level detection. First column: crack image; Second column: ground truth; Last column: visualization
 
 <table>
     <tr>
