@@ -21,6 +21,7 @@ Sun520 consists of 520 crack images captured on sunny days.
 These pictures reflects road surface conditions in the Zhongguancun Campus of University of Chinese Academy of Sciences.
 These pictures contain various background noises, such as shadows, oil stains, lane marking, and curved lines of tiles.
 Besides, since data were collected in the morning, afternoon, and dusk, Sun520 is rich in image brightness.
+First column: crack image; Second column: ground truth; Last column: visualization.
 
 <table>
     <tr>
@@ -47,6 +48,8 @@ These images mainly reflects pavement conditions in the South Third Street of Zh
 Since human eyes hardly distinguish cracks and non-cracks in rainy night scenes, we only utilize post-rain images in the daytime.
 Rain365 embraces three backgrounds, i.e., completely wet, partially wet and partially dry, and completely dry.
 Among them, the first case is the majority.
+First column: crack image; Second column: ground truth; Last column: visualization.
+
 <table>
     <tr>
         <td ><center><img src="https://github.com/shiyanrubing/CarNet_databases/blob/main/datasets/Rain365/img/IMG_20200923_172845.png" ></center></td>
