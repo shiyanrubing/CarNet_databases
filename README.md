@@ -9,3 +9,52 @@ Visual examples of different interference factors. (a), (b), (c), and (d) contai
 
 
 ![example](https://github.com/shiyanrubing/CarNet_databases/blob/main/datasets/example/noise_in_cracks_00.png)
+
+
+# Sun520
+
+Sun520 consists of 520 crack images captured on sunny days.
+These pictures reflects road surface conditions in the Zhongguancun Campus of University of Chinese Academy of Sciences.
+These pictures contain various background noises, such as shadows, oil stains, lane marking, and curved lines of tiles.
+Besides, since data were collected in the morning, afternoon, and dusk, Sun520 is rich in image brightness.
+
+Fig exp
+
+<table>
+    <tr>
+        <td ><center><img src="https://img-blog.csdn.net/20180731150122598?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzMzODI2NTY0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" >图1  新垣结衣1 </center></td>
+        <td ><center><img src="https://img-blog.csdn.net/20180731150122598?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzMzODI2NTY0/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70"  >图2 新垣结衣1</center></td>
+    </tr>
+</table>
+
+# Rain365
+
+Rain365 collects 365 crack images taken after rain.
+These images mainly reflects pavement conditions in the South Third Street of Zhongguancun.
+Since human eyes hardly distinguish cracks and non-cracks in rainy night scenes, we only utilize post-rain images in the daytime.
+Rain365 embraces three backgrounds, i.e., completely wet, partially wet and partially dry, and completely dry.
+Among them, the first case is the majority.
+
+Fig exp
+
+# BJN260
+
+BJN260 includes 260 crack images collected at night scene in Beijing.
+These images mainly reflect pavement conditions in the side road of North Fourth Ring West Road.
+Due to various light sources (e.g. street lamps, car lights, truck lights, etc) and different light intensities, pavement conditions at night are complex and changeable, which brings new challenges to pixel-level detection.
+
+Fig exp
+
+
+# Citation
+
+```
+@article{li2021fast,
+    title={Fast and Accurate Road Crack Detection Based on Adaptive Cost-Sensitive Loss Function},
+    author={Kai Li and Bo Wang and Yingjie Tian and Zhiquan Qi},
+    journal={IEEE Transactions on Cybernetics},
+    pages={1-12},
+    year={2021},
+    doi={10.1109/TCYB.2021.3103885}
+}
+```
