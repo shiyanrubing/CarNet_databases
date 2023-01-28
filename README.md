@@ -18,12 +18,21 @@ These pictures reflects road surface conditions in the Zhongguancun Campus of Un
 These pictures contain various background noises, such as shadows, oil stains, lane marking, and curved lines of tiles.
 Besides, since data were collected in the morning, afternoon, and dusk, Sun520 is rich in image brightness.
 
-Fig exp
-
 <table>
     <tr>
-        <td ><center><img src="https://github.com/shiyanrubing/CarNet_databases/blob/main/datasets/example/noise_in_cracks_00.png" >图1  </center></td>
-        <td ><center><img src="https://github.com/shiyanrubing/CarNet_databases/blob/main/datasets/example/noise_in_cracks_00.png" >图2 </center></td>
+        <td ><center><img src="https://github.com/shiyanrubing/CarNet_databases/blob/main/datasets/BJN260/img/IMG_20201021_113730.png" ></center></td>
+        <td ><center><img src="https://github.com/shiyanrubing/CarNet_databases/blob/main/datasets/BJN260/gt/IMG_20201021_113730.png" ></center></td>
+        <td ><center><img src="https://github.com/shiyanrubing/CarNet_databases/blob/main/datasets/BJN260/visualization/IMG_20201021_113730.png"></center></td>
+    </tr>
+    <tr>
+        <td ><center><img src="https://github.com/shiyanrubing/CarNet_databases/blob/main/datasets/BJN260/img/IMG_20201025_155556.png" ></center></td>
+        <td ><center><img src="https://github.com/shiyanrubing/CarNet_databases/blob/main/datasets/BJN260/gt/IMG_20201025_155556.png" ></center></td>
+        <td ><center><img src="https://github.com/shiyanrubing/CarNet_databases/blob/main/datasets/BJN260/visualization/IMG_20201025_155556.png"></center></td>
+    </tr>
+    <tr>
+        <td ><center><img src="https://github.com/shiyanrubing/CarNet_databases/blob/main/datasets/BJN260/img/IMG_20201025_171017.png" ></center></td>
+        <td ><center><img src="https://github.com/shiyanrubing/CarNet_databases/blob/main/datasets/BJN260/gt/IMG_20201025_171017.png" ></center></td>
+        <td ><center><img src="https://github.com/shiyanrubing/CarNet_databases/blob/main/datasets/BJN260/visualization/IMG_20201025_171017.png"></center></td>
     </tr>
 </table>
 
