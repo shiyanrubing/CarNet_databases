@@ -43,7 +43,13 @@ BJN260 includes 260 crack images collected at night scene in Beijing.
 These images mainly reflect pavement conditions in the side road of North Fourth Ring West Road.
 Due to various light sources (e.g. street lamps, car lights, truck lights, etc) and different light intensities, pavement conditions at night are complex and changeable, which brings new challenges to pixel-level detection.
 
-Fig exp
+<table>
+    <tr>
+        <td ><center><img src="https://github.com/shiyanrubing/CarNet_databases/blob/main/datasets/BJN260/img/IMG_20201025_174847.png" >图1  </center></td>
+        <td ><center><img src="https://github.com/shiyanrubing/CarNet_databases/blob/main/datasets/BJN260/gt/IMG_20201025_174847.png" >图2 </center></td>
+        <td ><center><img src="https://github.com/shiyanrubing/CarNet_databases/blob/main/datasets/BJN260/visulization/IMG_20201025_174847.png" >图3 </center></td>
+    </tr>
+</table>
 
 
 # Citation
