@@ -21,7 +21,7 @@ Sun520 consists of 520 crack images captured on sunny days.
 These pictures reflects road surface conditions in the Zhongguancun Campus of University of Chinese Academy of Sciences.
 These pictures contain various background noises, such as shadows, oil stains, lane marking, and curved lines of tiles.
 Besides, since data were collected in the morning, afternoon, and dusk, Sun520 is rich in image brightness.
-First column: crack image; Second column: ground truth; Last column: visualization.
+Some visual examples are shown below where the first column is the crack image, the second column is the ground truth, the last column is a composition of the crack and ground truth image.
 
 <table>
     <tr>
@@ -48,7 +48,7 @@ These images mainly reflects pavement conditions in the South Third Street of Zh
 Since human eyes hardly distinguish cracks and non-cracks in rainy night scenes, we only utilize post-rain images in the daytime.
 Rain365 embraces three backgrounds, i.e., completely wet, partially wet and partially dry, and completely dry.
 Among them, the first case is the majority.
-First column: crack image; Second column: ground truth; Last column: visualization.
+Some visual examples are shown below where the first column is the crack image, the second column is the ground truth, the last column is a composition of the crack and ground truth image.
 
 <table>
     <tr>
@@ -72,7 +72,7 @@ First column: crack image; Second column: ground truth; Last column: visualizati
 
 BJN260 includes 260 crack images collected at night scene in Beijing.
 These images mainly reflect pavement conditions in the side road of North Fourth Ring West Road.
-Due to various light sources (e.g. street lamps, car lights, truck lights, etc) and different light intensities, pavement conditions at night are complex and changeable, which brings new challenges to pixel-level detection. First column: crack image; Second column: ground truth; Last column: visualization
+Due to various light sources (e.g. street lamps, car lights, truck lights, etc) and different light intensities, pavement conditions at night are complex and changeable, which brings new challenges to pixel-level detection. Some visual examples are shown below where the first column is the crack image, the second column is the ground truth, the last column is a composition of the crack and ground truth image.
 
 <table>
     <tr>
