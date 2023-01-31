@@ -92,9 +92,9 @@ BJN260 includes 260 crack images collected at night scene in Beijing. These pict
 }
 
 @article{li2023fast,
-  title={{Rethinking Lightweight Convolutional Neural Networks for Efficient and High-quality Pavement Crack Detection}},
-  author={Kai Li, Jie Yang, Siwei Ma, Bo Wang, Shanshe Wang, Yingjie Tian, and Zhiquan Qi},
-journal="arXiv preprint arXiv:2109.05707",
-  year={2023}
+   title={{Rethinking Lightweight Convolutional Neural Networks for Efficient and High-quality Pavement Crack Detection}},
+   author={Kai Li, Jie Yang, Siwei Ma, Bo Wang, Shanshe Wang, Yingjie Tian, and Zhiquan Qi},
+   journal="arXiv preprint arXiv:2109.05707",
+   year={2023}
   }
 ```
