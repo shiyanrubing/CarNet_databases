@@ -15,7 +15,7 @@ Therefore, we propose three new pavement crack databases, namely Sun520, Rain365
 
 # Sun520
 
-Sun520 consists of 520 crack images taken on sunny days. These pictures reflect the road conditions of the Zhongguancun campus of the University of Chinese Academy of Sciences. These images contain various background noises such as shadows, oil stains, lane markings, and the curves of tiles. In addition, because the images were collected in the morning, afternoon and dusk, they have rich image brightness. Some visual examples are shown below, where the first column is the crack image, the second column is the ground truth, and the last column is the composite of the crack and ground truth image.
+Sun520 consists of 520 crack images taken on sunny days. These pictures reflect the road conditions of the Zhongguancun campus of the University of Chinese Academy of Sciences. These images contain various background noises such as shadows, oil stains, lane markings, and curved lines of tiles. In addition, because the images were collected in the morning, afternoon and dusk, they have rich image brightness. Some visual examples are shown below, where the first column is the crack image, the second column is the ground truth, and the last column is the composite of the crack and ground truth image.
 
 <table>
     <tr>
